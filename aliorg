@@ -76,5 +76,11 @@
     "key": "ROYAL58",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ae1c266f045bf442",
+    "key": "ROYAL_VIREX",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
