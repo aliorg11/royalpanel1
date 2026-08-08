@@ -16,5 +16,11 @@
     "key": "ahmad1",
     "expirydate": "08-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "780ba4917dc5c4dd",
+    "key": "ROYAL1",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
