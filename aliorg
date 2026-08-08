@@ -100,5 +100,11 @@
     "key": "ROYAL_D",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "293bdf66f2f88cc9",
+    "key": "ROYAL_DD",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
