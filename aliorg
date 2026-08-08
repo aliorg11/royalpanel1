@@ -136,5 +136,11 @@
     "key": "ROYAL23",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fa6864e5bd1015e4",
+    "key": "ROYALL",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
