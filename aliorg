@@ -106,5 +106,11 @@
     "key": "ROYAL_DD",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8c2b71c046bd5370",
+    "key": "ROYAL_MOBIN",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
