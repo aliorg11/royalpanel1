@@ -184,5 +184,11 @@
     "key": "ROYAL_TAHA",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b792b48415d41370",
+    "key": "ROYAL_SAD",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
