@@ -160,5 +160,11 @@
     "key": "ROYAL_AMIR",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4bc0c1da13203117",
+    "key": "ROYAL_MAHDI_1",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
