@@ -202,5 +202,11 @@
     "key": "ROYAL_NOX",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6365accbe91d3784",
+    "key": "ROYAL_MAHAN",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
