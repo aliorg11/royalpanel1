@@ -226,5 +226,11 @@
     "key": "AMIR_ROYAL",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "96e5152b8f55bcbe",
+    "key": "ROYAL_99220011774433",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
