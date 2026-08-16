@@ -214,5 +214,11 @@
     "key": "ROYAL_MATIN",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8e81bc80604f9a0b",
+    "key": "ROYAL_M1",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
