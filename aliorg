@@ -238,5 +238,11 @@
     "key": "ROYAL_SAJAD",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "692a772b75ac0a18",
+    "key": "ROYAL_RELAX",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
