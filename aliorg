@@ -250,5 +250,11 @@
     "key": "ROYAL_55_AMIR",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "071bfd69ee05475f",
+    "key": "ROYAL_MEHRDAD",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
