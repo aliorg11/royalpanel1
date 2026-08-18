@@ -256,5 +256,11 @@
     "key": "ROYAL_MEHRDAD",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "597c9363a7842d41",
+    "key": "ROYAL_MAH",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
