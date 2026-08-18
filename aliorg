@@ -244,5 +244,11 @@
     "key": "ROYAL_RELAX",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9dc29b66710f3db6",
+    "key": "ROYAL_55_AMIR",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
