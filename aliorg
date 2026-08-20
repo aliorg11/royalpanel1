@@ -268,5 +268,11 @@
     "key": "ROYAL_NOX",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "80c7a91bcd4b9dcb",
+    "key": "ROYAL_MMMD",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
