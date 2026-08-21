@@ -292,5 +292,11 @@
     "key": "ROYAL_MMDF",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1cf1623b62e5609e",
+    "key": "ROYAL_AM",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
