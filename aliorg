@@ -310,5 +310,11 @@
     "key": "ROYAL_BANI",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "14fa46544c2c79d9",
+    "key": "ROYAL_PPQQEE",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
