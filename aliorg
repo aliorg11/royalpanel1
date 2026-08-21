@@ -274,5 +274,11 @@
     "key": "ROYAL_MMMD",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c81a75e5ca1a9d8a",
+    "key": "ROYALL_MMD",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
