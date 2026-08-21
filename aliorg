@@ -304,5 +304,11 @@
     "key": "ROYAL_YAMYAM",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a38e08a8764a64b2",
+    "key": "ROYAL_BANI",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
