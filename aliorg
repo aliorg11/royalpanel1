@@ -298,5 +298,11 @@
     "key": "ROYAL_AM",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b19416ae781243d3",
+    "key": "ROYAL_YAMYAM",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
