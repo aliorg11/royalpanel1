@@ -328,5 +328,11 @@
     "key": "ROYAL_9927",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f42552d5ccb60507",
+    "key": "ROYAL_MELIKA",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
