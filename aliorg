@@ -322,5 +322,11 @@
     "key": "ROYAL_2100",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "80aee2bcf7474ce2",
+    "key": "ROYAL_9927",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
