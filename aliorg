@@ -346,5 +346,11 @@
     "key": "ROYAL_TATAT",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dd9c72986d65f0b4",
+    "key": "ROYAL_RRP",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
