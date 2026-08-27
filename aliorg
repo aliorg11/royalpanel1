@@ -352,5 +352,11 @@
     "key": "ROYAL_RRP",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d49ef986fc13cf48",
+    "key": "ROYAL_7000000",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true
   }
 ]
