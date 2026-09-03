@@ -364,5 +364,11 @@
     "key": "YASHAR_KONI",
     "expirydate": "07-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e4b58a50a016052e",
+    "key": "testv2",
+    "expirydate": "08-08-2027",
+    "Allowoffline": true
   }
 ]
