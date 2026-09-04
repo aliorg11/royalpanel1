@@ -208,5 +208,12 @@
     "expirydate": "07-09-2026",
     "Allowoffline": true,
     "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJrIjoiZTYzNWYyMjIwMDVlODE1Nzg2MjQwMDVlNzQ0Y2YyZjdmY2VjOTBkNzRhYWQwYmNiYjkzMmJhZjQ4MzQ3OTZhZSIsImQiOiI4NDQ1MjcwNjUwYjc0NTk1OTZmMzkwNGRlZjAxZjYwZmY4OWM2Yjk1YzVlZTIwNmExZTEyMWVhNmM4NWZmZThmIiwiZXhwIjoxNzg4NzE0OTIxLCJpYXQiOjE3ODg1NDIxMjEsIm9mZiI6dHJ1ZX0.e6I8xzHkPBJA9OmMMlVcbX8ZXPfOeReMXpBoTHxPTpR0nLhDg4UIfqGsNTMnDR66eIMW9Gf5VA0jEVMO_4IJhA"
+  },
+  {
+    "key": "sandra_royal",
+    "device_id": "feef8737c338dac6d43b30b3ed701e83ea63228df089155a0b46e44f5368e6d7",
+    "expirydate": "07-09-2026",
+    "Allowoffline": true,
+    "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJrIjoiZTYzNWYyMjIwMDVlODE1Nzg2MjQwMDVlNzQ0Y2YyZjdmY2VjOTBkNzRhYWQwYmNiYjkzMmJhZjQ4MzQ3OTZhZSIsImQiOiI4NDQ1MjcwNjUwYjc0NTk1OTZmMzkwNGRlZjAxZjYwZmY4OWM2Yjk1YzVlZTIwNmExZTEyMWVhNmM4NWZmZThmIiwiZXhwIjoxNzg4NzE1MDAxLCJpYXQiOjE3ODg1NDIyMDEsIm9mZiI6dHJ1ZX0.Vr3sQrJkcS4wfH7NkdQpn0AvoZw9YG2F-5oswCu3bAIkenvBHJ6oMK2iC7rrHw8ZuoReSHusMhiw-jkcN1dm1w"
   }
 ]
