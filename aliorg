@@ -523,5 +523,12 @@
     "expirydate": "07-09-2027",
     "Allowoffline": true,
     "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJrIjoiODk5ODgwOGUyOTdkNjE2NjQ5OGEzN2M3YzMwNThkOTcwODQwZDI1ZDE5ZmM4Yzg0NWMzMTdhNTBmOThiNWNjYSIsImQiOiI3NWZiZGJhODYwYjNkMTg2YzY4YzNhOGUzOTM5YWQ2NmYxNzRmNDg0NmJiNTZjODEwOThkZTNlNWMxYjY0YzVlIiwiZXhwIjoxODIwMjcwNzc3LCJpYXQiOjE3ODkwODAzNzcsIm9mZiI6dHJ1ZX0.dxz5I1uwJgnRcc_G2XYvtHksmlwPfBu8i3O7e3_O39enb2E-KyE40S-GWhNS7o_w6MaNYrZmvaUHJidtncU8HA"
+  },
+  {
+    "key": "ROYAL_llq",
+    "device_id": "265a4af5648ad8456aef7141c817d5acb40d7903db778d0aed41764cdf6c63e9",
+    "expirydate": "07-09-2027",
+    "Allowoffline": true,
+    "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJrIjoiYzIyZmZiYjc1NmE4YmZlYjA4Y2M1Yzc4YTgxNTdjNzE3Mzg2N2NmZGE3NjQ3NjNkMmFkNGEwOGI0ZmFkNTY5ZSIsImQiOiI4YzY2MmNkMWQ2OThkMDc4MmJkZmE3NGMxYzhjNGY4YzkzNzc3MTFjYjU1MWIzNTY0NTE1YmFmY2RjODg4OWZmIiwiZXhwIjoxODIwMjcyMzc4LCJpYXQiOjE3ODkwODE5NzgsIm9mZiI6dHJ1ZX0.ub2dlY6yaRakeCggVoKZsj1wyg-hV-w3ShXs5RP65xMv2nAC9Ci_Xq3QyL_9szUYs2tsMpxjRGqV7mEVxVHJgg"
   }
 ]
